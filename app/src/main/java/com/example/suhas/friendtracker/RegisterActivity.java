@@ -22,7 +22,7 @@ public class RegisterActivity extends AppCompatActivity {
         final Button bRegister = (Button) findViewById(R.id.bRegister);
 
         //*****************
-        //Data entered to be sent to the cloud before going back to the Login Activity
+        //Data entered to be sent to the cloud before going back to the Login Activity from Register Activity
         //*****************
 
         bRegister.setOnClickListener(new View.OnClickListener() {
